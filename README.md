@@ -146,7 +146,7 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ## 📬 Contato
 
-**Ígor Tavares Rocha, Rafael Afonso Labarre e Cristiano Krug**
+**Ígor Tavares Rocha, Rafael Afonso Labarrere e Cristiano Krug**
 
 [![GitHub](https://img.shields.io/badge/GitHub-igorr0cha-181717?logo=github)](https://github.com/igorr0cha)
 
