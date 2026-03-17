@@ -146,12 +146,12 @@ Este projeto está licenciado sob a licença **MIT**. Consulte o arquivo [LICENS
 
 ## 📬 Contato
 
-**Ígor Tavares Rocha**
+**Ígor Tavares Rocha, Rafael Afonso Labarre e Cristiano Krug**
 
 [![GitHub](https://img.shields.io/badge/GitHub-igorr0cha-181717?logo=github)](https://github.com/igorr0cha)
 
 ---
 
 <div align="center">
-  Feito com ❤️ por <a href="https://github.com/igorr0cha">Ígor Rocha</a>
+  Feito com ❤️ por <a href="https://github.com/igorr0cha">Ígor Rocha, Rafael Afonso e Cristiano Krug</a>
 </div>
