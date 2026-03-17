@@ -52,10 +52,10 @@ O **SmartCondo** é uma plataforma web de gestão condominial desenvolvida para 
 
 As principais tecnologias utilizadas neste projeto:
 
-- **Front-end:** _(a definir — ex: React, Vue.js, Angular)_
-- **Back-end:** _(a definir — ex: Node.js, Django, Laravel)_
-- **Banco de Dados:** _(a definir — ex: PostgreSQL, MySQL, MongoDB)_
-- **Autenticação:** _(a definir — ex: JWT, OAuth2)_
+- **Front-end:** React com TypeScript
+- **Back-end:** Node.js com Express/NestJS (TypeScript)
+- **Banco de Dados:** PostgreSQL
+- **Autenticação:** JWT (JSON Web Tokens)
 
 > **Nota:** este arquivo será atualizado conforme o stack tecnológico for definido.
 

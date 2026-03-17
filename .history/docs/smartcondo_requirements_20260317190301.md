@@ -1,3 +1,4 @@
+<!-- cspell:disable -->
 # 📂 Organização Profissional de Projetos de Software
 
 Para o **SmartCondo**, a organização deve ser dividida em **Documentação**, **Gestão** e **Código**. Aqui está onde cada coisa se encaixa:
@@ -61,7 +62,7 @@ Como PM, eu sugiro este fluxo para vocês:
 
 | Informação | Onde colocar? |
 | :--- | :--- |
-| **Stack (Java/React/Postgres)** | `README.md` (na raiz do código). |
+| **Stack (Node.js/TypeScript/Postgres)** | `README.md` (na raiz do código). |
 | **Requisitos (RF/RNF)** | `smartcondo_requirements.md` (Documento de requisitos). |
 | **Modelagem do Banco** | Arquivo de Imagem ou PDF na pasta `/docs` do repositório. |
 | **Status das tarefas** | Trello ou Quadro do GitHub. |
